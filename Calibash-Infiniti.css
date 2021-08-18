@@ -37,12 +37,13 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 94px;
+  min-height: 113px;
 }
 
 .u-section-2 .u-text-1 {
   background-image: none;
-  margin: 21px auto;
+  width: 500px;
+  margin: 40px auto 21px;
 }
 
 @media (max-width: 1199px) {
@@ -52,14 +53,13 @@
 
   .u-section-2 .u-text-1 {
     width: auto;
-    margin-top: 28px;
-    margin-bottom: 27px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-2 .u-text-1 {
-    margin: 29px 20px;
+    margin-left: 20px;
+    margin-right: 20px;
   }
 }.u-section-3 {
   background-image: none;

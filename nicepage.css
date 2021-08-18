@@ -34608,9 +34608,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    margin-top: 21px;
-    margin-bottom: 21px;
-    margin-right: 0;
+    margin: 19px -17px;
   }
 }
 .u-footer {
